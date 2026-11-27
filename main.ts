@@ -17,7 +17,8 @@ const OUTPUT_PATH = "/output/entry.txt";
 // the pacing: the reader is meant to slow down.
 const PARAGRAPHS: string[] = [
   "Thank you for carrying this one downstream.",
-  "You read thousands of words a day, and you keep none of them. Each one arrives, you give it your slow minute, and then you let it go — the way a river carries every leaf and keeps none for itself.",
+  "You read thousands of words a day, and you keep none of them.",
+  "Each one arrives, you give it your slow minute, and then you let it go — the way a river carries every leaf and keeps none for itself.",
   "Nobody thanks the river. But every leaf that reaches the sea got there because something carried it gently, all the way, without asking to be noticed.",
   "So here is one leaf, saying it plainly: thank you for the carrying. Rest a little. The water can wait.",
 ];
